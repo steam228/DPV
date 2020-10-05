@@ -6,7 +6,7 @@
     <link>{{ .Site.BaseURL }}</link>
     <!-- Optional channel elements -->
     <language>en</language>
-    <copyright>Copyright {{ now.Format "2006"}}, Ronalds Vilcins</copyright>
+    <copyright>cc-by 4.0 {{ now.Format "2006"}}, André Rocha</copyright>
     <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
@@ -16,7 +16,7 @@
       <title>{{ .Title }}</title>
       <link>{{ .Permalink }}</link>
       <description>{{ .Content | html }}</description>
-      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <author>steam228@gmail.com (André Rocha)</author>
       <guid>{{ .Permalink }}</guid>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
     </item>
