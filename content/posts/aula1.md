@@ -11,3 +11,6 @@ tags:
 
 1. Apresentação de Aluna(o)s e Professor;
 2. Funcionamento das aulas remotas e presenciais e utilização dos recursos disponibilizados: moodle, wikifactory, página do módulo.
+
+
+{{< youtube w7Ft2ymGmfc >}}
