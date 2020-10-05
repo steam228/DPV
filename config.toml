@@ -1,4 +1,4 @@
-baseURL = "https://lines-hugo-theme.netlify.app/"
+baseURL = "https://dpv.steam228.com/"
 languageCode = "en-us"
 title = "Lines - Minimalist Hugo theme"
 disableKinds = ["section", "categories"]
