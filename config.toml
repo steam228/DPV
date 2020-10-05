@@ -1,6 +1,6 @@
 baseURL = "https://dpv.steam228.com/"
 languageCode = "en-us"
-title = "Lines - Minimalist Hugo theme"
+title = "Design de Produto e Interação - PeDV"
 disableKinds = ["section", "categories"]
 disqusShortname = ""
 pygmentsCodeFences = false
@@ -32,17 +32,17 @@ minify = true
 [params]
   description = ""
   author = ""
-  copyright = ""
+  copyright = "cc-by 4.0 André Rocha 2020"
   logo = ""
 
 [frontmatter]
   date  = [":filename", ":default"]
-  author = ""
-  github = ""
-  facebook = ""
+  author = "André Rocha"
+  github = "steam228"
+  facebook = "steam228"
   og_image = ""
   sitename = ""
-  twitter = ""
+  twitter = "steam228"
 
 [permalinks]
   posts = "/:year/:month/:day/:filename"

@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="37f380a2-9855-4068-acd2-e18a458a14b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/yt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/posts/aula1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/aula1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ipsum-lore-de-re-mo-mi.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ipsum-lore-de-re-mo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ipsum-lore-de-re.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ipsum-lore-de.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ipsum-lore-guti-sit-volu-sit-amet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/ipsum-lore.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/lorem-catu-ale.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/lorem-ipsum-sit-ale.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/lorem-ipsum.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/markdown-syntax.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/markdown-syntax.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/math-typesetting.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/placeholder-text.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/rich-content.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601893602883</updated>
       <workItem from="1601893611076" duration="1691000" />
-      <workItem from="1601898253983" duration="676000" />
+      <workItem from="1601898253983" duration="6486000" />
     </task>
     <servers />
   </component>

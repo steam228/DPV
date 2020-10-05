@@ -8,8 +8,8 @@
   "favicon": "https://ronaldsvilcins.com/assets/favicon.ico",
   "expired": false,
   "author": {
-    "name": "Ronalds Vilcins",
-    "url": "https://ronaldsvilcins.com/"
+    "name": "André Rocha",
+    "url": "https://steam228.com/"
   },
   "items": [
     {{ $list := (where .Site.RegularPages "Section" "posts") }}
