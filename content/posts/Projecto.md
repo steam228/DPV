@@ -1,7 +1,7 @@
 ---
 title: "Projeto"
 description: "Dispensador Automático de ..."
-date: "2020-10-05"
+date: "2020-10-07"
 tags:
 - DistributedDesign
 - ProductInteractionDesign
@@ -48,6 +48,10 @@ Tacos distillery cornhole, single-origin coffee ennui austin +1 typewriter poke 
 
 ## Referências
 
+* Moggridge, B. (2007). Designing Interactions (1st ed.). The MIT Press.
+
 
 ## Outras Referências
+
+* [link - designing interactions](https://www.designinginteractions.com/)
 
