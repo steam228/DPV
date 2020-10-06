@@ -44,3 +44,8 @@ tags:
 
 1. Configuração e abertura de projectos no Wikifactory;
 2. Research.md (bloco de notas, com referencias, esboços exploratórios e elementos de inspiração, tanto visual como técnica)
+
+# Referências
+
+* Moggridge, B. (2007). Designing Interactions (1st ed.). The MIT Press. - [link](https://www.designinginteractions.com/)
+
