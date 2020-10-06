@@ -8,5 +8,7 @@ tags:
 ---
 
 (Aula Online)
-1. Esboço, revisão acerca de técnicas;
-2. 
+
+1. Discussão de Fase de Pesquisa e Publicação no Wikifactory;
+2. Design Aberto e Distribuído;
+3. Esboço, revisão acerca de técnicas;
