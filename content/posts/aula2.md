@@ -7,6 +7,8 @@ tags:
 - sketching
 ---
 
+# Sumário
+
 (Aula Online)
 
 1. Discussão de Fase de Pesquisa e Publicação no Wikifactory;
