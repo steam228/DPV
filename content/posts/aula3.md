@@ -14,6 +14,19 @@ date: "2020-10-19"
 3. Colaboração digital - Whiteboards digitais (miro.com) e outras práticas.
 
 
+## MIRO
+
+___
+{{< yt 7L1-0DOGHDY >}}
+---
+{{< yt Zc2c6HquANE >}}
+---
+{{< yt 0olcwCD9-GM >}}
+---
+{{< yt dPtDJGH8BKQ >}}
+---
+
+
 
 
 
