@@ -14,4 +14,7 @@ tags:
 2. O Exemplo das cartas "Fabschools" e a introdução dos valores do Design Distribuído na prática projectual.
 3. Esboço, revisão acerca de técnicas - Presencial;
  
+___
+# Recursos
 
+* [UN SDG's](https://sdgs.un.org/goals)

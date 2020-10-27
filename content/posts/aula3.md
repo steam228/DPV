@@ -13,8 +13,10 @@ date: "2020-10-19"
 2. Esboço, revisão acerca de técnicas - Presencial;
 3. Colaboração digital - Whiteboards digitais (miro.com) e outras práticas.
 
+___
+# Recursos
 
-## MIRO
+### tutoriais miro.com 
 
 ___
 {{< yt 7L1-0DOGHDY >}}
@@ -25,6 +27,8 @@ ___
 ---
 {{< yt dPtDJGH8BKQ >}}
 ---
+
+
 
 
 
