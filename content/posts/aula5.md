@@ -24,3 +24,7 @@ Tal acontece não só a nivel contextual, situando ou procurando a tipologia de 
 mas também na definição da tipologia de dispensador escolhida a nível: **Funcional**, **Conceptual** (vizinhos do mapa anterior!), **Tecnológico** (materiais, tecnologias de produção, e tecnologias de apoio ao fucnionamento, embedidas no produto) e **funcional** (requisitos de uso).
 
 2. individualmente - nova ronda de esboços (tanto de análise como exploratórios) - pretende-se com estas rondas de esboços, sedimentar o conhecimento e opções que vão evoluindo no mindmap de grupo.
+
+# Recursos
+
+[MIRO BOARD DA AULA](https://miro.com/app/board/o9J_kgADRoQ=/)
