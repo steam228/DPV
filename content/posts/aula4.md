@@ -1,7 +1,7 @@
 ---
 title: "Aula 4"
 description: "Colaboração digital - Design Distribuído"
-date: "2020-10-26"
+date: "2020-10-27"
 tags:
 
 ---
@@ -18,3 +18,5 @@ ___
 # Recursos
 
 * [UN SDG's](https://sdgs.un.org/goals)
+
+* [book scans SKETCHING](https://drive.google.com/file/d/1LGNNfCJVvuS-bPWCUscddU1iJf5rjQKl/view?usp=sharing)

@@ -1,10 +1,9 @@
 ---
 title: "Aula 6"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+description: "Esboços"
 date: "2020-11-10"
 tags:
-- Lorem
-- Ipsum
+- sketching
 ---
 
 
@@ -15,6 +14,11 @@ tags:
 1. Esboços - Da análise à apresentação de **conceitos coerentes**;
 2. Análise e discussão de elementos já entregues;
 ___
+
+
+# Recursos
+
+* [book scans SKETCHING](https://drive.google.com/file/d/1LGNNfCJVvuS-bPWCUscddU1iJf5rjQKl/view?usp=sharing)
 
 
 # TPC

@@ -1,9 +1,17 @@
 ---
-title: "Lorem ipsum"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+title: "Aula 8"
+description: "Apresentação de Proposta de Projecto"
 date: "2020-11-24"
 tags:
-- Lorem
-- Ipsum
+- 
 ---
 
+# Sumário
+(Aula online)
+ 
+ 
+ 
+* Apresentação de Propostas de Projecto e respectivo racional;
+* Avaliação.
+
+ 

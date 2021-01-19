@@ -1,6 +1,6 @@
 ---
 title: "Aula 3"
-description: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem"
+description: "Design Distribuído, implicações na prática de projeto"
 date: "2020-10-19"
 
 ---
