@@ -30,7 +30,7 @@ ___
 ### 1 - Esboço claro com
 ##### Objecto Síntese.
 
-![you can do it](/images/14.png)
+![you can do it](/images/9.png)
  
 Findada a fase de pesquisa e exploração conceptual é necessário agora convergir e elaborar um versão altamente simplificada do objecto a projectar. Esta representação esquemática, já abordada em sala de aula, tem por objectivo garantir a sintonia do grupo acerca do seu objecto a projectar.
  

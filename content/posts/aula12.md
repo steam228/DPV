@@ -43,6 +43,7 @@ Não são de descurar os seguintes elementos adicionais (por ordem de importânc
 5. um video com um protótipo apenas com micro:bit a funcionar;
 6. um esquema em ilustração vectorial das ligações possíveis;
 7. um printscreen do código no make.code (micro:bit);
+![you can do it](/images/mc2.png)
 8. download do ficheiro .hex a partir do make:code e deposito do mesmo na drive.
 
 
