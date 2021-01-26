@@ -17,7 +17,7 @@ tags:
  
 ___
 
-![](iamges/3.png)
+![](images/3.png)
 
 # TPC - Projecto, Definição de Conceito
 
