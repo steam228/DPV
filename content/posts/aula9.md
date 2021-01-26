@@ -29,6 +29,8 @@ ___
 
 ### 1 - Esboço claro com
 ##### Objecto Síntese.
+
+![you can do it](/images/14.png)
  
 Findada a fase de pesquisa e exploração conceptual é necessário agora convergir e elaborar um versão altamente simplificada do objecto a projectar. Esta representação esquemática, já abordada em sala de aula, tem por objectivo garantir a sintonia do grupo acerca do seu objecto a projectar.
  
@@ -43,13 +45,16 @@ Este documento, de apenas uma página deverá ser auto-explicativo das intençõ
  
 ### 3 - O Moodboard e o Objecto Síntese servirão de base para a definição do
 ##### Conceito Final:
- 
+![you can do it](/images/2.png)
 *(Outputs:*
 *1. imagem em bloco  com processo de refinamento exposto abaixo no readme.md da página principal do Wikifactory;*
 *2. Processo de votação fica plasmado no whiteboard    de cada grupo.)* [miro.com](http://miro.com/) 
  
 **3.1 - Definição da Forma:**
- 
+
+
+ ![you can do it](/images/10.png)
+
 Com recurso a pequenas folhas todos os elementos do grupo deverão desenhar diferentes versões em esboço rápido, apenas linhas, de possíveis perfis que resolvam o objecto síntese à luz das pretensões expressas no moodboard. Por outras palavras, a(s) forma(s), a(s) textura(s) e a(s) cores definidas pelo moodboard deverão moldar propostas guiadas pelo objecto síntese. Estas deverão ser desenhadas em abundância e de modo rápido e resumido por todos os elementos do grupo.
  
 **3.2 - Decisão:**
@@ -65,6 +70,8 @@ O processo de 3.1 e 3.2 deverá ser repetido de forma a fechar detalhes. Ou seja
 Tal como expresso no ponto anterior, deverão repetir o passo 3.2.
  
 #### 4 - Definição da forma
+
+ ![you can do it](/images/11.png)
  
 *(Output: imagem em bloco no readme.md da página principal do Wikifactory)*
  
@@ -73,3 +80,6 @@ Em desenho, com recurso a técnicas de sketching com marcadores, aguarelas, láp
 Este documento servirá de base para a definição da prototipagem da componente interactiva e para o refinamento do produto em 3D, com recurso a desenho paramétrico.
 
 
+... com consciência, de componentes, côr, textura, forma e tecnologia, poderão agora colocar o conceito à prova num software de CAD paramétrico.
+
+ ![you can do it](/images/12.png)
