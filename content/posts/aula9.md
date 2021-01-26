@@ -17,7 +17,7 @@ tags:
  
 ___
 
-![](images/3.png)
+![you can do it](/images/3.png)
 
 # TPC - Projecto, Definição de Conceito
 
