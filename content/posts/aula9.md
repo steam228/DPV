@@ -69,7 +69,7 @@ O processo de 3.1 e 3.2 deverá ser repetido de forma a fechar detalhes. Ou seja
  
 Tal como expresso no ponto anterior, deverão repetir o passo 3.2.
  
-#### 4 - Definição da forma
+#### 4 - Comunicação do Conceito - Sketching
 
  ![you can do it](/images/11.png)
  
