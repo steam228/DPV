@@ -16,6 +16,9 @@ tags:
 * Plataforma Wikifactory e documentação de projectos
  
 ___
+
+![](3.png)
+
 # TPC - Projecto, Definição de Conceito
 
 
