@@ -43,28 +43,47 @@ Não são de descurar os seguintes elementos adicionais (por ordem de importânc
 5. um video com um protótipo apenas com micro:bit a funcionar;
 6. um esquema em ilustração vectorial das ligações possíveis;
 7. um printscreen do código no make.code (micro:bit);
-![you can do it](/images/mc2.png)
+
+![exemplo printscreen](/images/mc2.png)
+
 8. download do ficheiro .hex a partir do make:code e deposito do mesmo na drive.
 
 
 #### Referencias de Apresentação e organização no Wikifactory 
 
-[lazer-chazer](https://wikifactory.com/@flowalistik/lazer-chazer)
-[campbell-planter](https://wikifactory.com/@flowalistik/campbell-planter)
-[open source beehives](https://projects.fablabs.io/+OSBeehives/barcelona-warre-beehive)
+* [lazer-chazer](https://wikifactory.com/@flowalistik/lazer-chazer)
+* [campbell-planter](https://wikifactory.com/@flowalistik/campbell-planter)
+* [open source beehives](https://projects.fablabs.io/+OSBeehives/barcelona-warre-beehive)
 
 
 #### Links para recursos
 
-[Ilustração Vectorial do Micro:Bit para Esquema de Ligações](https://github.com/microbit-foundation/microbit-svg)
-[Modelo 3D - micro:bit](https://grabcad.com/library/microbit-go-bundle-micro-bit-bbc-1)
-[Modelo 3D - Shield Grove (para os que vão usar)](https://grabcad.com/library/shield-grove-pour-micro-bit-1)
+* [Ilustração Vectorial do Micro:Bit para Esquema de Ligações](https://github.com/microbit-foundation/microbit-svg)
+* [Modelo 3D - micro:bit](https://grabcad.com/library/microbit-go-bundle-micro-bit-bbc-1)
+* [Modelo 3D - Shield Grove (para os que vão usar)](https://grabcad.com/library/shield-grove-pour-micro-bit-1)
 
 
 ___
-# Recursos
+### Recursos micro:bit
 
-* video a ser adicionado:
-* []()
+#### sebenta, as aulas:
+{{< yt N8h_bKX_xh4 >}}
 
-* []()
+## Ligar sensores 
+{{< yt _nI336ZbHcQ >}}
+
+## Ligar servos 
+{{< yt qdX86in2YXo >}}
+{{< yt okxooamdAP4 >}}
+{{< yt BDMm0C94wEw >}}
+
+## Ligar GROVE com placa adicional 
+{{< yt Suj8K0OkpZw >}}
+{{< yt rEMQUC3BzWA >}}
+
+
+
+
+
+
+
