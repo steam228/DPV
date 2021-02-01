@@ -66,6 +66,8 @@ Não são de descurar os seguintes elementos adicionais (por ordem de importânc
 ___
 ### Recursos micro:bit
 
+![Ligações Motor Servo Gande - 360º e 180º](/images/Fichas-microbit.png)
+
 #### sebenta, as aulas:
 {{< yt N8h_bKX_xh4 >}}
 
